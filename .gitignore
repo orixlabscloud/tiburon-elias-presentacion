@@ -1,0 +1,27 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.DS_Store
+Thumbs.db
+
+# Carpeta temporal de extracción de ZIPs
+_zip_extract/
+
+# Archivos fuente originales en la raíz (ya copiados a public/assets/)
+*.zip
+Shark-PNG-High-Quality-Image.png
+pngtree-*.png
+aggressive-*.zip
+cute-*.zip
+smiling-*.zip
+darren_hirst-*.mp3
+dragon-studio-*.mp3
+liecio-*.mp3
+universfield-*.mp3
+virtual_vibes-*.mp3
+yoursperfectguy-*.mp3
+presentation_tiburon_eliasmp__*.mp4
+dame_otro_tiburon_*.mp4
+b_e_e_a_b_df_mp_.mp4
